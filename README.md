@@ -14,6 +14,7 @@
 - 깃헙 레포지토리
   - [Frontend](https://github.com/wecode-bootcamp-korea/46-2nd-Kulture-frontend)
   - [Backend](https://github.com/wecode-bootcamp-korea/46-2nd-Kulture-backend)
+- 프로젝트 영상 링크 : https://www.youtube.com/watch?v=v78D9IcYdU8
 
 ## 🪴 서비스 소개
 - 서비스명 : kulture
